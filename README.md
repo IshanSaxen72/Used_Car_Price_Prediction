@@ -84,4 +84,4 @@ Contributing
 Feel free to fork this repository and submit pull requests if you have improvements or fixes! For any issues or feature requests, please open an issue.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Ishan License - see the LICENSE file for details.
